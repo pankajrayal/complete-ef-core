@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "OlLR4Pxhqt796FagmkKqBckUhR/KWPlhsV4oQvRZIl6Lquuug4pP/7S7+66R/hQXx8AuQwC3zQ896U+JHWMoww==",
+  "success": false,
+  "projectFilePath": "C:\\D-Drive\\Pankaj\\Code\\DotNetCore\\complete-ef-core\\WizLib\\WizLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 is not compatible with net50 (.NETFramework,Version=v5.0). Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 is not compatible with net50 (.NETFramework,Version=v5.0) / win7-x86. Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0/win7-x86"
+      ]
+    }
+  ]
+}
