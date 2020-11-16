@@ -10,3 +10,6 @@ C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\n
 C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Models.dll
 C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Models.pdb
 C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csproj.CopyComplete
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.runtimeconfig.json
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.runtimeconfig.dev.json
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.genruntimeconfig.cache
