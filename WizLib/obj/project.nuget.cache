@@ -1,29 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "OlLR4Pxhqt796FagmkKqBckUhR/KWPlhsV4oQvRZIl6Lquuug4pP/7S7+66R/hQXx8AuQwC3zQ896U+JHWMoww==",
-  "success": false,
+  "dgSpecHash": "ogaDNlZ0rOuZCwAviLbisxOpoqajCbyQRWxOHSUDGc52dSrhCYG120D/d/kqaZSeiuK22dW7HM/OFmYXWkfAwg==",
+  "success": true,
   "projectFilePath": "C:\\D-Drive\\Pankaj\\Code\\DotNetCore\\complete-ef-core\\WizLib\\WizLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.0.nupkg.sha512"
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.0\\microsoft.aspnetcore.mvc.razor.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.codeanalysis.common\\3.7.0\\microsoft.codeanalysis.common.3.7.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.7.0\\microsoft.codeanalysis.csharp.3.7.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.0\\microsoft.codeanalysis.razor.5.0.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 is not compatible with net50 (.NETFramework,Version=v5.0). Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 supports: net5.0 (.NETCoreApp,Version=v5.0)",
-      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
-      "targetGraphs": [
-        ".NETFramework,Version=v5.0"
-      ]
-    },
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 is not compatible with net50 (.NETFramework,Version=v5.0) / win7-x86. Package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 5.0.0 supports: net5.0 (.NETCoreApp,Version=v5.0)",
-      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
-      "targetGraphs": [
-        ".NETFramework,Version=v5.0/win7-x86"
-      ]
-    }
-  ]
+  "logs": []
 }

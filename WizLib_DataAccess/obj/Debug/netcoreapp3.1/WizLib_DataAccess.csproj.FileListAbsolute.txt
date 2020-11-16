@@ -1,0 +1,12 @@
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.deps.json
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.dll
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_DataAccess.pdb
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.AssemblyInfoInputs.cache
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.AssemblyInfo.cs
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.dll
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.pdb
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Models.dll
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\bin\Debug\netcoreapp3.1\WizLib_Models.pdb
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_DataAccess\obj\Debug\netcoreapp3.1\WizLib_DataAccess.csproj.CopyComplete

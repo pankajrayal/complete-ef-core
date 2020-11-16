@@ -1,0 +1,9 @@
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\bin\Debug\netcoreapp3.1\WizLib_Models.deps.json
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\bin\Debug\netcoreapp3.1\WizLib_Models.dll
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\bin\Debug\netcoreapp3.1\WizLib_Models.pdb
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\obj\Debug\netcoreapp3.1\WizLib_Models.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\obj\Debug\netcoreapp3.1\WizLib_Models.AssemblyInfoInputs.cache
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\obj\Debug\netcoreapp3.1\WizLib_Models.AssemblyInfo.cs
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\obj\Debug\netcoreapp3.1\WizLib_Models.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\obj\Debug\netcoreapp3.1\WizLib_Models.dll
+C:\D-Drive\Pankaj\Code\DotNetCore\complete-ef-core\WizLib_Models\obj\Debug\netcoreapp3.1\WizLib_Models.pdb
