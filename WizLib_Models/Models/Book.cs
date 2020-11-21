@@ -18,7 +18,11 @@ namespace WizLib_Models.Models
         [Required]
         public double Price { get; set; }
 
-        [NotMapped]
-        public string PriceRange { get; set; }
+        //[NotMapped]
+        //public string PriceRange { get; set; }
+
+        [ForeignKey("Category")]
+        public int Category_Id { get; set; }
+        public Category Category { get; set; }
     }
 }
