@@ -26,5 +26,7 @@ namespace WizLib_Models.Models
                 return $"{FirstName} {LastName}";
             }
         }
+
+        public ICollection<BookAuthor> BookAuthors { get; set; }
     }
 }
